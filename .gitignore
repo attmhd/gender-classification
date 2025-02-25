@@ -1,2 +1,4 @@
 .gradio/
 venv/
+.idea/
+assets/
